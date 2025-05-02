@@ -14,7 +14,7 @@ Este projeto simula um mini piano utilizando o Arduino UNO. Ao pressionar difere
 
 ## 🔌 Esquema do Circuito
 
-![Esquema do Circuito](./img/circuito.png)
+![Esquema do Circuito](./circuito.png)
 
 > O buzzer está conectado ao pino digital 2, o LED ao pino 4 e os botões aos pinos digitais de 7 a 13.
 
