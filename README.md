@@ -2,7 +2,9 @@
 
 Este projeto simula um mini piano utilizando o Arduino UNO. Ao pressionar diferentes botões, são emitidos sons correspondentes a notas musicais, e um LED acende indicando que uma nota está sendo tocada.
 
-O projeto também pode ser acessado pelo Thinkercad 👉 ![`Teclado Musical (Musician Keyboard)`](https://www.tinkercad.com/things/fvRjWwxnIpu-teclado-musical-musician-keyboard)
+
+O projeto também pode ser acessado pelo Thinkercad 👉 [Teclado Musical (Musician Keyboard)](https://www.tinkercad.com/things/fvRjWwxnIpu-teclado-musical-musician-keyboard)
+
 
 ## 🔧 Componentes Utilizados
 
