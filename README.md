@@ -43,6 +43,10 @@ Ele está comentado em **português e inglês** para facilitar o entendimento.
 Guilherme Muniz Monteiro  
 Projeto desenvolvido com o Tinkercad e Arduino UNO como prática de aprendizado.
 
+##💡 Outros Projetos
+
+Confira outros projetos meus acessando o link 👉 [Confira meus projetos](https://guiimonteiro.github.io/meus-projetos-tinkercad/)
+
 ## 📄 Licença
 
 Este projeto está licenciado sob a [MIT License](./LICENSE).
